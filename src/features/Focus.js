@@ -1,7 +1,6 @@
 import { useState } from 'react';
-import { View, Text, StyleSheet } from 'react-native';
-import { colors } from '../utils/colors';
-import { spacing, fontSisez } from '../utils/sizes';
+import { View, StyleSheet } from 'react-native';
+import { spacing  } from '../utils/sizes';
 import { TextInput } from 'react-native-paper';
 import { RoundedButton } from '../components/RoundedButton';
 
